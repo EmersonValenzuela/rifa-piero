@@ -27,12 +27,14 @@ const RifaApp = () => {
 9:{ nombre: "JHORDIN HC", telefono: ""},
 11:{ nombre:"Díaz Leon", telefono:""},
     13: { nombre: "GIANINA MITMA", telefono: "" },
+16:{ nombre:"Kenyi Vallalodid", telefono:""},
 17:{ nombre:"Díaz Leon", telefono:""},
-
+21:{ nombre:"Díaz Leon", telefono:""},
 22:{ nombre: "ANTONELLA HIDALGO", telefono:""},
     35:{ nombre: "DEYSI VICENSIO", telefono: ""},
 27:{ nombre:"Díaz Leon", telefono:""},
-31: { nombre: "Yahaira Acuña", telefono:""}
+31: { nombre: "Yahaira Acuña", telefono:""},
+32:{ nombre:"Díaz Leon", telefono:""},
   });
 
   const totalNumeros = 40;

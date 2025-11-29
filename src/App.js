@@ -32,6 +32,7 @@ const RifaApp = () => {
 17:{ nombre:"Díaz Leon", telefono:""},
 21:{ nombre:"Díaz Leon", telefono:""},
 22:{ nombre: "ANTONELLA HIDALGO", telefono:""},
+24: { nombre: "D'ALESSANDRO", telefono: ""},
 25:{ nombre: "ERICK DAVILA", telefono:""},
     35:{ nombre: "DEYSI VICENSIO", telefono: ""},
 26:{ nombre: "BASTIAN VALENZUELA", telefono:""},

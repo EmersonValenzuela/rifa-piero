@@ -20,7 +20,7 @@ const RifaApp = () => {
 
   // Números vendidos iniciales desde tu documento
   const [vendidos, setVendidos] = useState({
-    1: { nombre: "KATY CHOQUE", telefono: "" },
+    5: { nombre: "KATY CHOQUE", telefono: "" },
     2: { nombre: "GIANINA MITMA", telefono: "" },
 7:{ nombre:"Díaz Leon", telefono:""},
     8: { nombre: "DEYSI SOLORZANO", telefono: "" },

@@ -51,7 +51,7 @@ const RifaApp = () => {
         {/* Header */}
         <div className="header-card">
           <div className="header-content">
-            <div className="badge">🎉 RIFA ACTIVA</div>
+            <div className="badge">📅 Sorteo: Domingo 30 de Noviembre, 2025</div>
             <h1 className="title">Gran Rifa Pro Ayuda Social</h1>
             <p className="subtitle">¡Participa y gana increíbles premios! 🎁</p>
             <div className="info-row">

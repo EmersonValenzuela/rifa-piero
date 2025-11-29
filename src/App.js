@@ -23,7 +23,9 @@ const RifaApp = () => {
     1: { nombre: "KATY CHOQUE", telefono: "" },
     2: { nombre: "GIANINA MITMA", telefono: "" },
     8: { nombre: "DEYSI SOLORZANO", telefono: "" },
+9:{ nombre: "JHORDIN HC", telefono: ""},
     13: { nombre: "GIANINA MITMA", telefono: "" },
+22:{ nombre: "ANTONELLA HIDALGO", telefono:""},
     35: { nombre: "DEYSI VICENSIO", telefono: ""}
   });
 
